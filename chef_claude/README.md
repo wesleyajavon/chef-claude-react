@@ -13,10 +13,8 @@ This project was created to practice `useEffect`, API data fetching, and state m
 
 ## ⚙️ Features
 
-- Fetches a random recipe from TheMealDB API.
-- Displays the recipe name, category, origin, and image.
+- Based on ingredients prompted, AI-generated recipe with Claude Anthropic API.
 - Includes ingredients and instructions.
-- Refresh button to get a new random recipe.
 
 ## 🚀 Getting Started
 
