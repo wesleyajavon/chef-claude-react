@@ -35,7 +35,6 @@ export async function getRecipeFromChefClaude(ingredientsArr) {
             { role: "user", content: `I have ${ingredientsString}. Please give me a recipe you'd recommend I make!` },
         ],
     });
-    console.log(msg.content[0].text)
     return msg.content[0].text
 }
 

@@ -16,6 +16,9 @@ This project was created to practice `useEffect`, API data fetching, and state m
 - Based on ingredients prompted, AI-generated recipe with Claude Anthropic API.
 - Includes ingredients and instructions.
 
+## 🔗 Live Demo
+
+
 ## 🚀 Getting Started
 
 ### Clone the Repository
@@ -27,6 +30,6 @@ npm run dev
 
 ## 🖼️ Screenshot
 
-![Tenzies Game Screenshot](./public/screenshot1.png)
-![Tenzies Game Screenshot](./public/screenshot2.png)
+![Chef Claude Screenshot](./public/screenshot1.png)
+![Chef Claude Screenshot](./public/screenshot2.png)
 

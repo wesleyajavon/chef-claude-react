@@ -47,9 +47,7 @@ app.get('/', (req, res) => {
 
     axios.request(options).then(function (response) {
         res.json(response.data);
-        console.log("jsuis ici fdp2")
     }).catch(function (error) {
-        console.log("jsuis ici fdp")
         console.error(error);
     });
 })
