@@ -18,6 +18,7 @@ This project was created to practice `useEffect`, API data fetching, and state m
 
 ## 🔗 Live Demo
 
+https://chef-claude-react.vercel.app/
 
 ## 🚀 Getting Started
 
