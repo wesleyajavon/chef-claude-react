@@ -7,7 +7,7 @@ You are an assistant that receives a list of ingredients that a user has and sug
 
 export async function getRecipeFromChefClaude(ingredientsArr) {
     try {
-        const response = await fetch('http://localhost:5002/api/generate-recipe', {
+        const response = await fetch('https://chef-claude-react-backend.onrender.com/api/generate-recipe', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({ ingredients: ingredientsArr }),
