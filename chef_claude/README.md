@@ -25,6 +25,7 @@ This project was created to practice `useEffect`, API data fetching, and state m
 
 ## 🖼️ Screenshot
 
+![Chef Claude Screenshot](./public/screenshot1.png)
 ![Chef Claude Screenshot](./public/screenshot2.png)
 ![Chef Claude Screenshot](./public/screenshot3.png)
 
