@@ -23,7 +23,6 @@ This project was created to practice `useEffect`, API data fetching, and state m
 
 ## 🚀 Getting Started
 
-```
 ## 🖼️ Screenshot
 
 ![Chef Claude Screenshot](./public/screenshot1.png)
