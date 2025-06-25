@@ -182,3 +182,8 @@ ul.ingredients-list > li {
   font-size: 1.125rem;
   font-weight: 400;
 }
+@media (max-width: 480px) {
+  main {
+    padding: 1rem 0.5rem;
+  }
+}
