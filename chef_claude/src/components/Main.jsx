@@ -37,7 +37,6 @@ export default function Main() {
                     name="ingredient"
                 />
 
-                <button>Add ingredient</button>
             </form>
             {myIngredients.length > 0 ? <IngredientsList
                 ref={recipeSection}
